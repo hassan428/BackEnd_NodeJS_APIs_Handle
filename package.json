@@ -1,0 +1,15 @@
+{
+  "name": "second-class",
+  "version": "1.0.0",
+  "description": "second-class-practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
